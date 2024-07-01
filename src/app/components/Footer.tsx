@@ -16,7 +16,7 @@ export function Footer() {
   return (
     <footer className="bg-zinc-800 border-t border-zinc-700 px-6 py-4 flex items-center justify-between">
       <div className="flex items-center gap-3">
-        <Image width={56} height={56} src="/album.jpg" alt="Capa de album" />
+        <Image width={56} height={56} src="/nirvana.jpg" alt="Capa de album" />
         <div className="flex flex-col">
           <strong className="font-normal">Smells like teen spirit</strong>
           <span className="text-xs text-zinc-400">Nirvana</span>
